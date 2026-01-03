@@ -1,8 +1,8 @@
-# 📌 Project Name
+# 📌 HII
 
 ## 📖 Description
-This project is a web-based application developed to solve a real-world problem.  
-It focuses on providing a simple, user-friendly interface while ensuring efficient backend functionality.
+This project is a web-based application developed to tell the viewer about me. 
+It focuses on providing a simple, user-friendly interface.
 
 The application is designed using modern web technologies and follows clean coding practices.
 
@@ -15,20 +15,14 @@ The application is designed using modern web technologies and follows clean codi
 - Form validation and error handling
 - Secure and structured codebase
 
----
 
 ## 🛠 Tech Stack
 ### Frontend
 - HTML5
 - CSS3
 - JavaScript
-- React.js *(if applicable)*
 
-### Backend
-- Python
-- Flask / Django
 
----
 
 ## 📂 Project Structure
 
@@ -46,3 +40,6 @@ HII
 ├── index.html
 |
 └── README.md
+
+### Author
+Pallavi Kandher
